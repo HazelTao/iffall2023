@@ -1,0 +1,21 @@
+html {
+    color:rgb(62, 62, 62);
+    font-family: 'Crimson Text', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: normal;
+
+  }
+
+  h1{
+    color:rgb(30, 30, 30);
+    font-size: 30px;
+
+  }
+  p{
+    font-size: 20px;
+  }
+  h5{
+    font-size: 15px;
+    color: rgb(168, 168, 168);
+  }
+
