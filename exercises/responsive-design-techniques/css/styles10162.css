@@ -1,0 +1,76 @@
+body {
+    max-width: 800px;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  @media (min-width: 640px) {
+    body {
+      background-color: #eaf6ff;
+    }
+  }
+
+  @media (max-width: 500px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+  }
+
+  @media (min-width: 640px) {
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+li {
+    width: 170px;
+    margin: 10px;
+    font-size: 0.8rem;
+}
+
+
+/* second section */
+
+ul {
+    list-style: none;  
+    padding: 0;      
+    display: flex;   
+    flex-wrap: wrap;  
+    gap: 10px;       
+  }
+  
+  li {
+    width: 170px;   
+    font-size: 0.8rem;  
+  
+  aside {
+    width: 100%;
+  }
+}
+
+
+  ul {
+    list-style: none;
+    padding: 0; 
+    display: flex; 
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 1rem -10px;
+  }
+
+ .id stretchable-grid-items li {
+    flex: 0 0 calc(170px - 20px);
+    font-size: 0.8rem; 
+  }
+
+  aside {
+    width: 100%; 
+  }
