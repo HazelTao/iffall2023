@@ -1,0 +1,23 @@
+html{
+    color:rgb(93, 93, 93);
+    font-family: 'Crimson Text', serif;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Roboto Condensed', sans-serif;;
+
+}
+
+p{
+    text-align: center;
+    color:rgb(118, 81, 42)
+}
+h1{
+    font-size:28px ;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h5{
+    font-size: 18px;
+    text-align: center;
+}
